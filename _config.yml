@@ -53,7 +53,7 @@ menu:
    - title: About
      url: /about/
    - title: Dataset
-     url: /example/
+     url: /dataset/
    - title: Publications
      url: /docs/
    - title: Code
