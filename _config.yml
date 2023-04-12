@@ -56,7 +56,7 @@ menu:
      url: /example/
    - title: Publications
      url: /docs/
-   - title: Publications
+   - title: Code
      url: /docs/
 
 # Add links to the footer.
