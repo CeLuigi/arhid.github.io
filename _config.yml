@@ -26,11 +26,11 @@ title: ARID
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Advancing Real-world Image Dehazing: A Comprehensive Dataset and Evaluation Metrics
+  This website hosts the resources presented in the manuscript entitled ``Advancing Real-world Image Dehazing: A Comprehensive Dataset and Evaluation Metrics''
 
 # A shorter description for the sidebar.
 # tagline: Change `tagline` in `_config.yml`
-tagline: Unpaired Real-world Hazy image dataset
+tagline: Advancing Real-world Image Dehazing: A Comprehensive Dataset and Evaluation Metrics
 
 # A list of keywords for your blog
 keywords: [real-world image dehazing, datasets, IQA metrics, research, computer vision]
