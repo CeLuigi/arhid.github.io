@@ -21,19 +21,19 @@ url: https://jv-conseil.github.io/jekyll-theme-deepdive/
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: URHazy
+title: ARID
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Unpaired Real-world Hazy image dataset
+  Advancing Real-world Image Dehazing: A Comprehensive Dataset and Evaluation Metrics
 
 # A shorter description for the sidebar.
 # tagline: Change `tagline` in `_config.yml`
 tagline: Unpaired Real-world Hazy image dataset
 
 # A list of keywords for your blog
-keywords: []
+keywords: [real-world image dehazing, datasets, IQA metrics, research, computer vision]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,8 +43,8 @@ logo: /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: <firstname> <lastname>
-  email: <mail@domain.tld>
+  name: Luigi Celona and Flavio Piccoli
+  email: <first_name.last_name@unimib.it>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
