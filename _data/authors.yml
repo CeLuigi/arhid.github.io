@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: <firstname> <lastname>
-  email: <mail@domain.tld>
+  name: Luigi Celona
+  email: <luigi.celona@unimib.it>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -68,8 +68,9 @@ author1:
 
 # Another author (optional)
 author2:
-  name: <firtname> <lastname>
-  email: <mail@domain.tld>
+  name: Flavio Piccoli
+  email: <flavio.piccoli@unimib.it>
+
   about: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
