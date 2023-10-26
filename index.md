@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Home
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with DeepDive.
 hide_description: true
@@ -8,6 +8,14 @@ hide_description: true
 # permalink: /docs/
 ---
 
+## Advancing Real-world Image Dehazing: A Comprehensive Dataset and Evaluation Metrics
+
+This repository will host datasets and methods presented in the manuscript.
+Resources will be published after acceptance.
+
+Stay tuned!
+
+<!--
 ## Getting started
 
 * [About]{:.heading.flip-title} --- How to install and run DeepDive.
@@ -40,6 +48,8 @@ hide_description: true
 [dataset]: dataset.md
 [LICENSE]: LICENSE.md
 [NOTICE]: NOTICE.md
+
+-->
 [scripts]: scripts.md
 [upgrade]: upgrade.md
 [writing]: writing.md
