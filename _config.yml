@@ -55,7 +55,7 @@ menu:
    - title: Dataset
      url: /dataset/
    - title: Quality Metrics
-     url: /Multi-aspect quality assessment/
+     url: /metrics/
    - title: Code
      url: /docs/
 
