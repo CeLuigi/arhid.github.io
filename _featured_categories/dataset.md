@@ -8,6 +8,9 @@ hide_description: true
 # sitemap: false
 ---
 
+Coming soon!
+
+<!--
 How you install DeepDive depends on whether you [start a new site](#new-sites),
 or change the theme of [an existing site](#existing-sites).
 
@@ -104,3 +107,5 @@ and point your browser to <http://localhost:4000> to see DeepDive in action.
 
 Continue with [Config](config.md){:.heading.flip-title}
 {:.read-more}
+
+-->
